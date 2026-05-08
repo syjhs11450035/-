@@ -1,0 +1,6 @@
+{
+  "name": "MathAI Explorer",
+  "description": "An advanced AI-powered math solver with SymPy, Plotly, and multi-role AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
